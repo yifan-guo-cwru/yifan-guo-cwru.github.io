@@ -1,0 +1,7 @@
+# start the environment
+conda activate py27
+
+# Run jemdoc
+python jemdoc.py index.jemdoc
+
+# check: http://www-personal.umich.edu/~wylguan/using-jemdoc.html
