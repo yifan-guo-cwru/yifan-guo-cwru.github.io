@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
-=== Conferences Papers
+=== Conference Papers
 
 - *Yifan Guo*, Qianlong Wang, Tianxi Ji, and Pan Li, “Resisting Distributed Backdoor Attacks in Federated Learning: A Dynamic Norm Clipping Approach,” accepted by the 2021 IEEE International Conference on Big Data (BigData'21). (Acceptance Ratio = 97/486 = 19.9%)
 - *Yifan Guo*, Lixing Yu, Qianlong Wang, Tianxi Ji, Yuguang Fang, Jin Wei-Kocsis, and Pan Li, “Weak Signal Detection in 5G+ Systems: A Distributed Deep Learning Framework,” the Twenty-Second ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc’21), Shanghai, China, July 26-29, 2021. (Acceptance Ratio = 28/139 = 20.1%)
@@ -13,7 +13,7 @@
 - *Yifan Guo*, Weixian Liao, Qianlong Wang, Lixing Yu, Tianxi Ji, and Pan Li, “Multidimensional Time Series Anomaly Detection: A GRU-based Gaussian Mixture Variational Autoencoder Approach,” the 10th Asian Conference on Machine Learning (ACML’18), Beijing, China, November 14-16, 2018. (Acceptance Ratio = 57/230 = 24.8%)
 - Lixing Yu, Qianlong Wang, *Yifan Guo*, and Pan Li, “Spectrum Availability Prediction for Cognitive Aerospace Communications: A Deep Learning Perspective,” the 2017 IEEE Cognitive Communications for Aerospace Applications Workshop, Cleveland, OH, June 27-28, 2017.
 
-=== Journals Papers
+=== Journal Papers
 
 - *Yifan Guo*, Qianlong Wang, Xufei Wang, and Pan Li, “Efficient Defense against Adversarial Attacks: A Fast Quantized Adversarial Training Scheme,” submitted to IEEE Transactions on Big Data.
 - Qianlong Wang, *Yifan Guo*, Tianxi Ji, Xufei Wang, Bingfang Hu, and Pan Li, “Towards Combatting COVID-19: A Risk Assessment System,” to appear in IEEE Internet of Things Journal.
