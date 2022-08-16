@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 
 ~~~
-{}{img_left}{./images/banner2.png}{profile pic}{100%}{}{}
+{}{img_left}{../www/images/banner2.png}{profile pic}{100%}{}{}
 ~~~
 
 ~~~
