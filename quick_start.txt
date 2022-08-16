@@ -1,7 +1,6 @@
-# start the environment
-conda activate py27
-
 # Run jemdoc
-python jemdoc.py index.jemdoc
+cd jemdoc_files/
+python ../jemdoc.py -c mysite.conf -o ../www/  *.jemdoc
 
 # check: http://www-personal.umich.edu/~wylguan/using-jemdoc.html
+# check: https://github.com/szl2/jemdoc-new-design
