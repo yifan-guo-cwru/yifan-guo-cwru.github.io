@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="icon" href="./images/icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>Underscore Example</title> --->
+<title>jemdoc + new design</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="./images/profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">jemdoc + new design</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
+<div class="menu-item"><a href="index.html">About</a></div>
+<div class="menu-category">My Templates</div>
+<div class="menu-item"><a href="profile.html">Profile&nbsp;Page</a></div>
+<div class="menu-item"><a href="post1.html">Blog&nbsp;Post&nbsp;Page</a></div>
+<div class="menu-item"><a href="projects.html">Project&nbsp;Page</a></div>
+<div class="menu-item"><a href="group.html">Group&nbsp;Page</a></div>
+<div class="menu-category">Jemdoc</div>
+<div class="menu-item"><a href="download.html">download</a></div>
+<div class="menu-item"><a href="revision.html">version/bug&nbsp;info</a></div>
+<div class="menu-item"><a href="contact.html">contact</a></div>
+<div class="menu-category">User's guide</div>
+<div class="menu-item"><a href="using.html">running&nbsp;jemdoc</a></div>
+<div class="menu-item"><a href="example.html">example&nbsp;page</a></div>
+<div class="menu-item"><a href="nomenu.html">example&nbsp;page&nbsp;(no&nbsp;menu)</a></div>
+<div class="menu-item"><a href="cheatsheet.html">cheat&nbsp;sheet</a></div>
+<div class="menu-item"><a href="extra.html">extra&nbsp;syntax</a></div>
+<div class="menu-category">Configuration</div>
+<div class="menu-item"><a href="htmlchanges.html">html&nbsp;changes</a></div>
+<div class="menu-item"><a href="menu.html">adding&nbsp;a&nbsp;menu</a></div>
+<div class="menu-item"><a href="modelines.html">modelines</a></div>
+<div class="menu-category">Goodies</div>
+<div class="menu-item"><a href="stuff.html">vim,&nbsp;make</a></div>
+<div class="menu-item"><a href="latex.html">latex&nbsp;equations</a></div>
+<div class="menu-item"><a href="tables.html">tables</a></div>
+<div class="menu-category">Additional Features</div>
+<div class="menu-item"><a href="mathjax.html">MathJax</a></div>
+<div class="menu-item"><a href="underscore.html" class="current">Underscore</a></div>
+<div class="menu-item"><a href="link.html">Link</a></div>
+<div class="menu-item"><a href="http://www.google.com" target="blank">Open&nbsp;in&nbsp;New&nbsp;Tab</a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
+<div id="toptitle">
+<h1>Underscore Example</h1>
+</div>
+<p>Like <b>bold</b> and <i>italic</i>, <u>underscore</u> can be used for emphasis in this modified version of <tt>jemdoc</tt>.  Useful for highlighting different parts of a bibliography item as:</p>
+<p>1. <u>First Author</u>, Second Author, and <b>Corresponding Author</b>, &ldquo;Amazing Paper,&rdquo; <i>High-impact Journal</i>, vol.&nbsp;1, pp.&nbsp;1&ndash;10 (2014).</p>
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
+</body>
+</html>

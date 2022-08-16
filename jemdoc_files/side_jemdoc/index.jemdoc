@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{./images/banner.png}{profile pic}{100%}{}{https://github.com/szl2/jemdoc-new-design}
+~~~
+
+~~~
+{}{img_left}{./images/info.png}{info pic}{100%}{}{}
+~~~
