@@ -43,7 +43,7 @@ systems, and ultimately, developing robust defense strategies to address the sec
 == Visitors
 ~~~
 {}{raw}
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YW1ED8KuaOj3FkxPSChS0cCe6VhjVL4mDncGYSCHJbY&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=YW1ED8KuaOj3FkxPSChS0cCe6VhjVL4mDncGYSCHJbY'></script>
 ~~~
 
 #[publications.html Full list of publications].
