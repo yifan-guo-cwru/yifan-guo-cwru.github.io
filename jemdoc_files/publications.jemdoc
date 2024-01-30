@@ -3,6 +3,9 @@
 
 === Conference Papers
 
+- Usman Shuaibu Musa, *Yifan Guo*, Cheng Qian, and Wei Yu. "Optimal sampling for Moving Object Trajectory Tracking in Smart Transportation Systems: A Transformer-based Approach," in 2023 IEEE International Conference on Big Data (BigData), pp. 1230-1235. IEEE, 2023.
+- Adamu Hussaini, Cheng Qian, *Yifan Guo*, Chao Lu, and Wei Yu. "Digital twins of smart campus: Performance evaluation using machine learning analysis," in 2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA), pp. 132-137. IEEE, 2023.
+- Jianchao Song, Cheng Qian, *Yifan Guo*, Kun Hua, and Wei Yu. "Attack Evaluations of Deep Learning Empowered WiFi Sensing in IoT Systems," in IEEE INFOCOM 2023-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), pp. 1-6. IEEE, 2023.
 - *Yifan Guo*, Qianlong Wang, Tianxi Ji, and Pan Li, “Resisting Distributed Backdoor Attacks in Federated Learning: A Dynamic Norm Clipping Approach,” accepted by the 2021 IEEE International Conference on Big Data (BigData'21). (Acceptance Ratio = 97/486 = 19.9%)
 - *Yifan Guo*, Lixing Yu, Qianlong Wang, Tianxi Ji, Yuguang Fang, Jin Wei-Kocsis, and Pan Li, “Weak Signal Detection in 5G+ Systems: A Distributed Deep Learning Framework,” the Twenty-Second ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc’21), Shanghai, China, July 26-29, 2021. (Acceptance Ratio = 28/139 = 20.1%)
 - *Yifan Guo*, Tianxi Ji, Qianlong Wang, Lixing Yu, and Pan Li, “Quantized Adversarial Training: An Iterative Quantized Local Search Approach,” the 18th IEEE International Conference on Data Mining (ICDM’19), Beijing, China, November 8-11, 2019. (Acceptance Ratio = 184/1046 = 18.5%)
@@ -15,6 +18,8 @@
 
 === Journal Papers
 
+- Abubakar Ahmad Musa, Adamu Hussaini, Cheng Qian, *Yifan Guo*, and Wei Yu. "Open Radio Access Networks for Smart IoT Systems: State of Art and Future Directions," Future Internet 15, no. 12 (2023): 380.
+- Qianlong Wang, Weixian Liao, *Yifan Guo*, Michael McGuire, and Wei Yu. "Blockchain-Empowered Federated Learning Through Model and Feature Calibration," to appear in IEEE Internet of Things Journal (2023).
 - Qianlong Wang, *Yifan Guo*, Tianxi Ji, Xufei Wang, Bingfang Hu, and Pan Li, “Towards Combatting COVID-19: A Risk Assessment System,” in IEEE Internet of Things Journal, vol. 8, no. 21,  pp. 15953-15964. Mar. 2021.
 - Tianxi Ji, *Yifan Guo*, Qianlong Wang, Xufei Wang, and Pan Li. “ECONOMY: Point Clouds-based Energy-efficient Autonomous Navigation for UAVs,” in IEEE Transactions on Network Science and Engineering, vol. 8, no. 4, pp. 2885-2896, Jan. 2021.
 - *Yifan Guo*, Tianxi Ji, Qianlong Wang, Lixing Yu, Geyong Min, and Pan Li, “Unsupervised Anomaly Detection in IoT Systems for Smart Cities,” in IEEE Transactions on Network Science and Engineering, vol. 7, no. 4, pp. 2231-2242, Oct. 2020.
