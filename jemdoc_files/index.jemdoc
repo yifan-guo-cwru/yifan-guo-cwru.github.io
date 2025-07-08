@@ -31,12 +31,12 @@ in 2013.
 # efficient, scalable, and implementable deep learning schemes for security applications in IoT systems; 2) investigating the vulnerability of practical deep learning 
 # systems, and ultimately, developing robust defense strategies to address the security and privacy concerns in distributed learning systems.
 
-His research focuses on the intersections among Cybersecurity, Artificial Intelligence (AI) and Edge Computing (EC), three emerging and essential research areas, with an emphasis on edge AI, robust federated learning, smart sensing, smart cyber defenses and their applications on the Internet of Things (IoT) and Cyber-physical Systems (CPS). To that end, his work covers studying fundamental mathematical problems and designing and implementing effective and efficient learning schemes in cutting-edge AI and cybersecurity applications. Specifically, it encompasses the following three aspects: 
+His research focuses on the intersections among Cybersecurity, Artificial Intelligence (AI) and Edge Computing (EC), three emerging and essential research areas, with an emphasis on edge AI, robust federated learning, smart sensing, AI-enabled cyber defenses and their applications on the Internet of Things (IoTs) and Cyber-physical Systems (CPSs). To that end, his work covers studying fundamental mathematical problems and designing and implementing effective and efficient learning schemes in cutting-edge AI and cybersecurity applications. Specifically, it encompasses the following three aspects: 
 - *AI for Security*: Developing AI-driven solutions for anomaly and intrusion detection in IoT and CPS environments.
 
-- *Secure AI*: Building secure and trustworthy distributed learning frameworks resilient to threats such as backdoor injection, false data injection, and membership inference attacks.
+- *Secure AI*: Building secure and trustworthy distributed learning frameworks resilient to threats such as backdoor attacks, false data injection attacks, and membership inference attacks.
 
-- *Edge AI Foundations*: Advancing edge AI through co-design of learning, sensing, and communication across the full lifecycle in IoT and CPS edge deployments.
+- *Edge AI Foundations*: Advancing edge AI through co-design of computing, sensing, and communication across the full lifecycle in IoT and CPS edge deployments.
 
 #[research.html Find out more].
 
