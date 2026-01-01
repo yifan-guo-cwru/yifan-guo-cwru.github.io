@@ -3,7 +3,10 @@
 
 === Journal Papers
 
-- Mian Qian, Abubakar Ahmad Musa, Milon Biswas, *Yifan Guo*, Weixian Liao, and Wei Yu. "Survey of Artificial Intelligence Model Marketplace," in Future Internet 17, no. 1 (2025): 35.
+- Yixin Chen, *Yifan Guo*, and Wei Yu, "SPFERE: Towards Practical Semi-Synchronous On-Device Federated Edge Learning With Fairness and Power Awareness," to appear in IEEE Transactions on Mobile Computing, 2026.
+- Krishna Sruthi Velaga, *Yifan Guo*, and Wei Yu, "Edge AI for Smart Cities: Foundations, Challenges, and Opportunities." in Smart Cities 8, no. 6 (2025): 211.
+- Mian Qian, Abubakar Ahmad Musa, Milon Biswas, *Yifan Guo*, Weixian Liao, and Wei Yu, "Survey of Artificial Intelligence Model Marketplace," in Future Internet 17, no. 1 (2025): 35.
+- John Mulo, Hengshuo Liang, Mian Qian, Milon Biswas, Bharat Rawal, *Yifan Guo*, and Wei Yu, "Navigating Challenges and Harnessing Opportunities: Deep Learning Applications in Internet of Medical Things," Future Internet 17, no. 3 (2025): 107.
 - Hengshuo Liang, Wei Yu, Cheng Qian, *Yifan Guo*, David Griffith, and Nada Golmie. "Deep learning-based power quality disturbance detection and classification in smart grid," in International Journal of Sensor Networks 46, no. 3, pp. 161-175, 2024.
 - Cheng Qian, *Yifan Guo*, Adamu Hussaini, Abubakar Ahmad Musa, Akshita Maradapu Vera Venkata Sai, and Wei Yu. "A New Layer Structure of Cyber-Physical Systems under the Era of Digital Twin," to appear in ACM Transactions on Internet Technology (2024).
 - Saier Alharbi, *Yifan Guo*, and Wei Yu. "Collusive Backdoor Attacks in Federated Learning Frameworks for IoT Systems," in IEEE Internet of Things Journal, vol. 11, no. 11, pp. 19694-19707, Jun. 2024.
@@ -22,8 +25,11 @@
 - Yi Cai, *Yifan Guo*, Haotian Jiang, and Ming-Chun Huang, “Machine-learning Approaches for Recognizing Muscle Activities Involved in Facial Expressions Captured by Multi-channels Surface Electromyogram.” in Smart Health, no. 5 (2018): 15-25.
 
 === Conference Papers
-
-- Krishna Sruthi Velaga, and *Yifan Guo*, "Optimizing Large Language Models Assisted Smart Home Assistant Systems at the Edge: An Empirical Study," in AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN), 2025.
+- Krishna Sruthi Velaga, Anik Mallik, and *Yifan Guo*, "How Energy is Consumed by LLM-enabled Smart Home Assistant Systems on Low-Cost Devices: An Empirical Study," In 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC'26). 2026.
+- Jianchao Song, Usman Shuaibu Musa, Yixin Chen, Papa Pene, *Yifan Guo*, and Wei Yu, "Federated Learning for Edge WiFi Sensing: Improving Few-Shot Learning Across Various Classification," in Proc. of 2025 IEEE 22nd International Conference on Mobile Ad Hoc and Smart Systems (MASS'25), pp. 10-18. IEEE, 2025. 
+- *Yifan Guo*, and Alyssa Yu, "Integrating Independent Layer-Wise Rank Selection with Low-Rank SVD Training for Model Compression: A Theory-Driven Approach," In the 34th International Joint Conference on Artificial Intelligence (IJCAI'25), pp. 5289-5297, 2025.
+- Pouria Tayebi, Yingcheng Sun, and *Yifan Guo*, "From Menus to Management: An Integrated Platform Leveraging Large Language Models in Automatic Restaurant Ordering Systems," In the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA'25), pp. 9-14. IEEE, 2025. 
+- Krishna Sruthi Velaga, and *Yifan Guo*, "Optimizing Large Language Models Assisted Smart Home Assistant Systems at the Edge: An Empirical Study," in AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN'25), 2025.
 #- Jianchao Song, *Yifan Guo*, Chao Lu, and Wei Yu. “A Physical WiFi Sensing Testbed for Smart Edge Sensing and Computing,” to appear in 6th International Workshop on Smart City Communication and Networking, IEEE International Conference Computer Communication Networks (ICCCN’24), July 2024.
 - Gift Idama, *Yifan Guo*, and Wei Yu. “QATFP-YOLO: Optimizing Object Detection on Non-GPU Devices with YOLO Using Quantization-Aware Training and Filter Pruning,” in 1st International Workshop on Integrated Sensing, Communication, and Computing in Internet of Things (IoT) Systems, IEEE International Conference Computer Communication Networks (ICCCN’24), pp. 1-6, IEEE 2024. 
 #- Hengshuo Liang, Qianlong Wang, *Yifan Guo*, Adamu Hussaini, Chao Lu, and Wei Yu. “An Exploration of Graph Transformer-Driven Deep Learning Techniques on Malware Detection,” to appear in 1st International Workshop on Integrated Sensing, Communication, and Computing in Internet of Things (IoT) Systems, IEEE International Conference Computer Communication Networks (ICCCN’24), July 2024. 
