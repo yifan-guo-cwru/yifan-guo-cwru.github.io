@@ -1,9 +1,9 @@
-# jemdoc: jemdoc: menu{MENU}{research.html}, nofooter
+# jemdoc: menu{MENU}{research.html}, nofooter
 
-== Research Projects
+== Research projects
 This page highlights my selected research projects.
 
-=== 2025
+== 2025
 ~~~
 {}{img_left}{./images/pic01.png}{}{280px}{}{}
 == Possibly broke spacetime
@@ -12,7 +12,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 ~~~
 
 
-=== 2024
+== 2024
 ~~~
 {}{img_left}{./images/pic02.png}{}{280px}{}{}
 == Terraformed a small moon
@@ -36,7 +36,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 Mauris ut massa placerat, pellentesque nibh sit amet, sodales diam. Mauris leo odio, rhoncus et consectetur ut, suscipit et elit. Praesent non mollis nibh, at rhoncus est.
 ~~~
 
-=== 2018
+== 2018
 
 ~~~
 {}{img_left}{./images/pic05.png}{}{280px}{}{}
