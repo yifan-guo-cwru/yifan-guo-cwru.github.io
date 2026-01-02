@@ -1,6 +1,6 @@
-# jemdoc: menu{MENU}{projects.html}
-= Projects
-This page contains all my projects.
+# jemdoc: jemdoc: menu{MENU}{projects.html}, nofooter
+= Research Projects
+This page highlights my selected research projects.
 
 == 2020
 ~~~
