@@ -20,6 +20,7 @@ In this work, we propose SPFERE, a Semi-synchronous Power-aware and FairnEss-Reg
 ==== Accepted to Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25)
 In this paper, we design a novel approach by integrating rank selection into the lowrank training process and performing independent layer-wise rank selection under the guidance of a theoretical loss error bound. Specifically, we first conduct a comprehensive theoretical analysis to quantify how low-rank approximations impact the training losses. Building on these insights, we develop an efficient layer-wise rank search algorithm and seamlessly incorporate it into low-rank singular value decomposition (SVD) training. \n
 📄 **Paper:** [https://www.ijcai.org/proceedings/2025/0589.pdf Paper(PDF)] \n
+📌 **Poster:** [/www/files/ijcai25_poster.pdf Poster(PDF)] \n
 ~~~
 
 == 2024
