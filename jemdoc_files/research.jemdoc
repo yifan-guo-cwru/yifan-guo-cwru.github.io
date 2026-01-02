@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 
-== Research Projects
+== Research Highlights
 This page highlights my selected research projects.
 
 == 2025
@@ -10,8 +10,8 @@ This page highlights my selected research projects.
 ==== Accepted to IEEE Transactions on Mobile Computing
 In this work, we propose SPFERE, a Semi-synchronous Power-aware and FairnEss-Regulated Engine, designed for power-constrained edge environments and implemented on a real-world edge testbed to support asynchronous model updating, power management, and fairness-aware model aggregation. Specifically, we propose a client grouping-based semi-synchronous aggregation protocol that reduces idle waiting time for power-abundant devices and mitigates stale updates from power-constrained devices, along with our in-depth convergence analysis. Then, we introduce a long short-term memory (LSTM)-based power estimation approach to predict remaining battery voltage for devices with limited communication overhead, enabling early warnings for power dropouts. Lastly, we design fusion-based fairness-aware model aggregation methods to prevent bias by considering device participation frequency and training workload. \n
 📄 **Paper:** [https://doi.org/10.1109/TMC.2025.3649621 IEEE Xplore Link] \n
-💻 **Code:** [https://github.com/YixinChenYC1999/SPFERE/tree/main GitHub Repository] \n
-🎥 **Demo Video:** [https://youtu.be/WQP8dnkH-AM YouTube Demo] \n
+💻 **Code:** [https://github.com/YixinChenYC1999/SPFERE/tree/main GitHub Repository Link] \n
+🎥 **Demo Video:** [https://youtu.be/WQP8dnkH-AM YouTube Demo Link] \n
 ~~~
 
 ~~~
@@ -31,5 +31,6 @@ In this paper, we design a novel approach by integrating rank selection into the
 ==== Accepted to IEEE Internet of Things Journal
 In this article, we propose a novel attack approach, called collusive backdoor attacks (CBAs), which bypasses robust aggregation defense by considering both local backdoor training and post-training model manipulations among collusive attackers. Particularly, we introduce a nontrivial perturbation estimation scheme to add manipulations over model update vectors after local backdoor training and use the Gram-Schmidt process to speed up the estimation process. This makes the magnitude of the perturbed poisoned model to the same level as normal models, evading robust aggregation-based defense while maintaining attack efficacy. After that, we provide a pilot study to verify the feasibility of our perturbation estimation scheme, followed by its convergence analysis. \n
 📄 **Paper:** [https://ieeexplore.ieee.org/abstract/document/10453350 IEEE Xplore Link] \n
+📊 **Talk Slides:** [../www/files/backdoor_talk_slides.pdf Slides(PDF)] \n
 ~~~
 
