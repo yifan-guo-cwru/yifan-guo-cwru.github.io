@@ -5,10 +5,10 @@ This page highlights my selected research projects.
 
 == 2025
 ~~~
-{}{img_left}{./images/pic01.png}{}{280px}{}{}
-== Possibly broke spacetime
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+{}{img_left}{./images/research_images/Semi-Sync Protocols.png}{}{500px}{}{}
+== SPFERE: Towards Practical Semi-Synchronous On-Device Federated Edge Learning With Fairness and Power Awareness
+==== Accepted to IEEE Transactions on Mobile Computing
+This work focuses on a semi-synchronous fairness-and-power-aware FEL framework with a co-design for learning and communication, and proposes SPFERE, a Semi-synchronous Power-aware and FairnEss-Regulated Engine, designed for power-constrained edge environments and implemented on both a real-world edge testbed and a simulation platform to support asynchronous model updating, power management, and fairness-aware model aggregation.
 ~~~
 
 
