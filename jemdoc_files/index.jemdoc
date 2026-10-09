@@ -47,7 +47,9 @@ His research focuses on the intersections among Cybersecurity, Artificial Intell
 == Visitors
 ~~~
 {}{raw}
-<a href="https://mapmyvisitors.com/web/1c5jk"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=BFLNcmS5wqkBeH3BnZu_Y53gC0zZybigy6ZdemU8FD0&cl=ffffff" /></a>
+<div style="display: flex; justify-content: center;">
+<a href="https://mapmyvisitors.com/web/1c5jk" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=BFLNcmS5wqkBeH3BnZu_Y53gC0zZybigy6ZdemU8FD0&cl=ffffff" /></a>
+</div>
 ~~~
 
 #[publications.html Full list of publications].
