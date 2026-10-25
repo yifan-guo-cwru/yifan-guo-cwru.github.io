@@ -20,9 +20,9 @@ Google scholar: [https://scholar.google.com/citations?user=Gb3iND8AAAAJ&hl=en ch
 == About me
 
 Yifan Guo is an Assistant Professor in the Department of Computer and Information Sciences at Towson University (TU) since August 2022. Before joining TU, he obtained 
-his Ph.D. degree in Computer and Information Sciences from Case Western Reserve University under the supervision of [http://cse-apps2.case.edu/panli/doku.php Dr. Pan Li] in 2022, his M.S. degree in Computer 
+his Ph.D. degree in Computer and Information Sciences from Case Western Reserve University under the supervision of Dr. Pan Li in 2022, his M.S. degree in Computer 
 Science from Northwestern University in 2016, and his B.S. degree in Information and Computing Sciences from the Beijing University of Posts and Telecommunications 
-in 2013. He received an NSF Computer and Information Science and Engineering Research Initiation Initiative (CRII) [https://www.nsf.gov/awardsearch/show-award?AWD_ID=2449627 Award] in 2025. He is also the thirteenth holder of the [https://www.towson.edu/fcsm/about/endowment/chairs.html Jess and Mildred Fisher Endowed Chair] in the Mathematical and Computing Sciences of Towson University (2025–2028).
+in 2013. He received an NSF Computer and Information Science and Engineering Research Initiation Initiative (CRII) Award in 2025. He is also the thirteenth holder of the Jess and Mildred Fisher Endowed Chair in the Mathematical and Computing Sciences of Towson University (2025–2028).
 
 == Research Interests
 # His research interests focus on security and privacy issues and optimization algorithm designs in intelligent learning systems with an emphasis on anomaly detection, 
@@ -31,12 +31,18 @@ in 2013. He received an NSF Computer and Information Science and Engineering Res
 # efficient, scalable, and implementable deep learning schemes for security applications in IoT systems; 2) investigating the vulnerability of practical deep learning 
 # systems, and ultimately, developing robust defense strategies to address the security and privacy concerns in distributed learning systems.
 
-His research focuses on the intersections among Cybersecurity, Artificial Intelligence (AI) and Edge Computing (EC), three emerging and essential research areas, with an emphasis on edge AI, robust federated learning, smart sensing, AI-enabled cyber defenses and their applications on the Internet of Things (IoTs) and Cyber-physical Systems (CPSs). To that end, his work covers studying fundamental mathematical problems and designing and implementing effective and efficient learning schemes in cutting-edge AI and cybersecurity applications. Specifically, it encompasses the following three aspects: 
-- *AI for Security*: Developing AI-driven solutions for anomaly and intrusion detection in IoT and CPS environments.
+His research focuses on the intersections among Cybersecurity, Artificial Intelligence (AI) and Edge Computing (EC), three emerging and essential research areas, with an emphasis on edge AI, robust federated learning, smart sensing, AI-enabled cyber defenses and their applications on the Internet of Things (IoTs) and Cyber-physical Systems (CPSs). To that end, his work covers studying fundamental mathematical problems and designing and implementing effective and efficient learning schemes in cutting-edge AI and cybersecurity applications. Specifically, it encompasses the following aspects: 
+#- *AI for Security*: Developing AI-driven solutions for anomaly and intrusion detection in IoT and CPS environments.
 
-- *Secure AI*: Building secure and trustworthy distributed learning frameworks resilient to threats such as backdoor attacks, false data injection attacks, and membership inference attacks.
+#- *Secure AI*: Building secure and trustworthy distributed learning frameworks resilient to threats such as backdoor attacks, false data injection attacks, and membership inference attacks.
 
-- *Edge AI Foundations*: Advancing edge AI through co-design of computing, sensing, and communication across the full lifecycle in IoT and CPS edge deployments.
+- *Secure and Efficient AI Algorithm Design*: Develop secure and resource-efficient distributed
+learning paradigms for edge learning systems, with robustness against threats such as backdoor model
+injection and false data injection, while reducing communication overhead and energy consumption.
+
+- *Edge AI System-level Co-design*: Promote integrated edge AI systems by co-designing edge-side computing, sensing, and communication for power- and fairness-aware federated edge learning and latency-oriented edge task offloading in IoT and CPS.
+
+- *Edge AI Sensing and Applications*: Develop intelligent sensing and multimodal perception approaches that integrate heterogeneous sensing modalities, including mmWave radar, cameras, WiFi, and LiDAR, for effective and efficient edge AI applications.
 
 #[research.html Find out more].
 
